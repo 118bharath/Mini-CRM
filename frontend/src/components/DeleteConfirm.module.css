@@ -1,0 +1,8 @@
+.confirmModal {
+  max-width: 420px;
+}
+
+.message {
+  color: var(--muted-foreground);
+  line-height: 1.6;
+}
